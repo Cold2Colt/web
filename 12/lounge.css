@@ -1,0 +1,18 @@
+h1, h2 {
+  font-family: Arial;
+  color: grey;
+}
+
+
+h1 {
+  border-bottom:1px solid black;
+}
+
+p {
+  color: maroon;
+  font-style: italic;
+}
+
+body{
+	background-color: #d75455;
+}
